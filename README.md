@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👨🏻‍💻 Olá, seja bem-vindo ao meu GitHub! - *Nikolas Lopes da Silva*
 
-<!--
-**Nikolas-LS/Nikolas-LS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software em formação com experiência em Suporte Técnico e foco em soluções práticas e personalizadas. Estudante de Tecnologia da Informação na ETEP, com habilidades em Python, C/C++, redes, web e cibersegurança. Atuo com manutenção de hardware, diagnóstico remoto e automação (RPA). Proativo, organizado e sempre em busca de evolução técnica. Valorizo a colaboração e estou em constante aprendizado. Busco contribuir com projetos inovadores e eficientes.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href=""><img align="center" alt="Nikolas-HTML5" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"></a>
+  <a href=""><img align="center" alt="Nikolas-CSS3" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"></a>
+  <a href=""><img align="center" alt="Nikolas-JS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></a>
+  <a href=""><img align="center" alt="Nikolas-C" height="50" width="50" src="https://img.icons8.com/?size=48&id=40670&format=png"></a>
+  <a href=""><img align="center" alt="Nikolas-C++" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"></a>
+  <a href=""><img align="center" alt="Nikolas-Python" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp"></a>
+  <a href=""><img align="center" alt="Nikolas-Pascal" height="50" width="50" src="https://img.icons8.com/?size=48&id=JIca3PdDDoXN&format=png"></a>
+  <a href=""><img align="center" alt="Nikolas-Lazarus" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png"></a>
+  <a href=""><img align="center" alt="Nikolas-QtCreator" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/ru/f/f6/QtCreatorIcon.png"></a>
+  <a href=""><img align="center" alt="Nikolas-PostgreSQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></a>
+  <a href=""><img align="center" alt="Nikolas-MySQL" height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"></a>
+  <a href=""><img align="center" alt="Nikolas-GIT" height="40" width="40" src="https://img.icons8.com/?size=48&id=20906&format=png"></a>
+</div>
