@@ -23,4 +23,6 @@ Desenvolvedor de Software em formação com experiência em Suporte Técnico e f
 
 <div>
   <a href="" target="_blank"><img src=""></a>
+  <a href="" target="_blank"><img src=""></a>
+  <a href="" target="_blank"><img src=""></a>
 </div>
